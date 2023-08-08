@@ -2,7 +2,7 @@ URL: https://tictactoe-game-1.manoranjan111.repl.co/<br>
 Tic Tac Toe Game
 This is a simple implementation of the Tic Tac Toe game using HTML, CSS, and JavaScript.
 Srennsshort
-<img width="956" alt="Tic Tac Toe Game ScreenSort" src="https://github.com/Manoranjan111/Tic-Tac-Toe-Game/assets/95931051/62a6018a-035b-4bba-a630-38e43e1d8597">
+<img width="956" alt="Tic Tac Toe Game ScreenSort" src="https://tictactoe-game.manoranjan111.repl.co/">
 
 
 How to Play
